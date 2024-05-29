@@ -1,4 +1,4 @@
-# Jenkines file in branch main
+# Jenkines file in branch 02_01
 # test to run workflow
 pipeline {
     agent {lable "linux"}
