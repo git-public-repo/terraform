@@ -1,9 +1,9 @@
 ### PROVIDER
 provider "google" {
-  project = "terraform-424717" #replace this with your project-id
+  project = "project-a-425013" #replace this with your project-id
   region  = "europe-west3"
   zone    = "europe-west3-a"
-  impersonate_service_account = "serviceaccountforterraform@terraform-424717.iam.gserviceaccount.com"
+  impersonate_service_account = "serviceaccount-projecta@project-a-425013.iam.gserviceaccount.com"
 }
 
 ### NETWORK
