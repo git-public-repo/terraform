@@ -1,6 +1,6 @@
 ### PROVIDER
 provider "google" {
-  project = "project-a-425013" #replace this with your project-id
+  project = "project-a-425013" ##replace this with your project-id
   region  = "europe-west3"
   zone    = "europe-west3-a"
   impersonate_service_account = "serviceaccount-projecta@project-a-425013.iam.gserviceaccount.com"
