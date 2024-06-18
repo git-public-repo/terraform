@@ -1,4 +1,4 @@
-### PROVIDER
+### PROVIDER config
 provider "google" {
   project = "project-a-425013" ##replace this with your project-id
   region  = "europe-west3"
